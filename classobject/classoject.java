@@ -24,9 +24,6 @@ class myobject {
            obj0.cname = "hulala";
            System.out.println(obj0.name +" "+obj0.salary+ " "+obj0.cname);
         
-           
-
-        
         
         
 
